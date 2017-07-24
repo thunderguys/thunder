@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:46:23 IST 2017
+org.apache.sling.junit.scriptable-1.0.8-sources.jar>central=
+org.apache.sling.junit.scriptable-1.0.8.jar>central=
+org.apache.sling.junit.scriptable-1.0.8.jar>=
+org.apache.sling.junit.scriptable-1.0.8.pom>central=

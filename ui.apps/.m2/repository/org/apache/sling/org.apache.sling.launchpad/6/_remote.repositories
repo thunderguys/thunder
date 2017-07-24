@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:46:23 IST 2017
+org.apache.sling.launchpad-6.pom>central=
+org.apache.sling.launchpad-6-standalone.jar>central=
+org.apache.sling.launchpad-6-standalone.jar>=

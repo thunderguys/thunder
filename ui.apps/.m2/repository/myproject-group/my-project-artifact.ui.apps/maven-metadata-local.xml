@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>myproject-group</groupId>
+  <artifactId>my-project-artifact.ui.apps</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170223043816</lastUpdated>
+  </versioning>
+</metadata>

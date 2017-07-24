@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:45:51 IST 2017
+mockito-all-1.9.5.jar>=
+mockito-all-1.9.5.jar>adobe-public-releases=
+mockito-all-1.9.5.pom>adobe-public-releases=
+mockito-all-1.9.5-sources.jar>central=

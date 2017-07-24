@@ -1,0 +1,26 @@
+<sly data-sly-use.sample="com.myproject.services.core.use.SampleUse"/>
+page path from use class:${sample.getPageValue}
+
+               <!-- ARTICLE 1 -->               
+               <article class="margin-bottom">
+                  <div class="post-1 line">
+                     <!-- image -->                 
+                     <div data-sly-test="${properties.image}"class="s-12 l-11 post-image">                   
+                        <a href="post-1.html"><img src="${properties.fileReference}" alt="Fashion"></a>              
+                     </div>
+                     <!-- date -->                 
+                     <div class="s-12 ${properties.image ? 'l-1' : ' '} post-date">
+                        <p class="date">${properties.day}</p>
+                        <p class="month">${properties.month}</p>
+                     </div>
+                  </div>
+                  <!-- text -->                 
+                  <div class="post-text">
+                     <a href="post-1.html">
+                        <h2>${properties.h2text}</h2>
+                     </a>
+                     <p>${properties.para}
+                     </p>
+                     <a class="continue-reading" href="${properties.ctaurl}">${properties.ctatext}</a>
+                  </div>
+               </article>

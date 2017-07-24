@@ -1,0 +1,27 @@
+      <!-- MAIN SECTION -->                  
+      <section id="${properties.section}" class="line ${(properties.section=='article-section') ? 'archive' : ''}">
+         <div class="margin">
+            <!-- ARTICLES -->             
+            <div class="s-12 l-9">
+
+			<div data-sly-resource="${@path='par',resourceType='wcm/foundation/components/parsys'}">
+            </div>
+
+			
+            </div>
+
+            <!-- SIDEBAR -->
+            <div class="s-12 l-3">
+
+               <aside>
+
+   				 <div data-sly-resource="${@path='sidepar',resourceType='wcm/foundation/components/parsys'}">
+                 </div>
+
+              </aside>
+
+            </div>
+
+		</div>
+
+   </section>

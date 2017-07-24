@@ -17,6 +17,7 @@ public class TestOne extends WCMUse{
 	public void activate() throws Exception {
 	SlingHttpServletRequest requst = getRequest();
 	log.debug("SlingHttpServletRequest:{}",requst);
+	//asdfghjklmasdfgh
 	log.debug("SlingHttpServletRequest:{}","--------------------------------------------");
 	n1 = getResourceResolver().resolve("/etc/tags/geometrixx-outdoors/gender").adaptTo(Node.class);
 	log.debug("SlingHttpServletRequest:{}",n1);

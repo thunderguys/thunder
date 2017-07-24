@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-02-22T17:27:02.654+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/myproject/templates/abouttemplate"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="test3"
+        sling:resourceType="myproject/components/structure/aboutpage">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/parsys">
+            <textimage_vatient_1
+                jcr:created="{Date}2017-02-22T17:25:24.767+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2017-02-22T17:25:24.767+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="myproject/components/content/textimage-vatient-1"/>
+        </par>
+        <sidepar
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/parsys">
+            <adbanner
+                jcr:created="{Date}2017-02-22T17:26:40.953+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2017-02-22T17:27:02.649+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="myproject/components/content/adbanner"
+                altText="sdasdfasfasfa"
+                fileReference="/content/dam/fashion-images/banner.jpg">
+                <image
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="foundation/components/image"/>
+            </adbanner>
+        </sidepar>
+    </jcr:content>
+</jcr:root>

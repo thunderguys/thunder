@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:description="this is the template for archive page"
+    jcr:primaryType="cq:Template"
+    jcr:title="Archive page Template"
+    allowedPaths="[/content/fashion(/.*)?]"
+    ranking="{Long}103">
+    <jcr:content
+        jcr:primaryType="cq:PageContent"
+        sling:resourceType="myproject/components/structure/archivepage"/>
+</jcr:root>

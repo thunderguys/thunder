@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:45:51 IST 2017
+bndlib-1.50.0.jar>=
+bndlib-1.50.0.jar>adobe-public-releases=
+bndlib-1.50.0-sources.jar>central=
+bndlib-1.50.0.pom>adobe-public-releases=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:45:51 IST 2017
+xmlParserAPIs-2.6.2.jar>=
+xmlParserAPIs-2.6.2.jar>adobe-public-releases=
+xmlParserAPIs-2.6.2.pom>adobe-public-releases=

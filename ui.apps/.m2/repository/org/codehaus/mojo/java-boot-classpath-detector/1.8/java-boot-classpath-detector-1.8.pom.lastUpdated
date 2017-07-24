@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Feb 26 18:10:03 IST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488112803219
+@default-adobe-public-releases-https\://repo.adobe.com/nexus/content/groups/public/.lastUpdated=1488112801717
+https\://repo.adobe.com/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.mojo\:java-boot-classpath-detector\:pom\:1.8 from/to adobe-public-releases (https\://repo.adobe.com/nexus/content/groups/public)\: connect timed out

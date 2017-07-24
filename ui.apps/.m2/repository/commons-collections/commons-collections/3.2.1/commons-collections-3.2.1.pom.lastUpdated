@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Feb 26 19:18:12 IST 2017
+@default-adobe-public-releases-https\://repo.adobe.com/nexus/content/groups/public/.lastUpdated=1488116890728
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1488116892381
+https\://repo.adobe.com/nexus/content/groups/public/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:3.2.1 from/to adobe-public-releases (https\://repo.adobe.com/nexus/content/groups/public)\: java.lang.SecurityException\: JCE cannot authenticate the provider SunJCE
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:3.2.1 from/to central (https\://repo.maven.apache.org/maven2)\: RSA premaster secret error

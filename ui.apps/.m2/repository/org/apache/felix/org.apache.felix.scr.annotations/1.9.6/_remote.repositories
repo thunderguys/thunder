@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:45:51 IST 2017
+org.apache.felix.scr.annotations-1.9.6.jar>=
+org.apache.felix.scr.annotations-1.9.6.jar>adobe-public-releases=
+org.apache.felix.scr.annotations-1.9.6-sources.jar>central=
+org.apache.felix.scr.annotations-1.9.6.pom>adobe-public-releases=

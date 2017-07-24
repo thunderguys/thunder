@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 06 12:46:00 IST 2017
+org.apache.sling.commons.json-2.0.6.jar>=
+org.apache.sling.commons.json-2.0.6.jar>adobe-public-releases=
+org.apache.sling.commons.json-2.0.6-sources.jar>central=
+org.apache.sling.commons.json-2.0.6.pom>adobe-public-releases=
